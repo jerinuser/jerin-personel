@@ -1,0 +1,9 @@
+
+
+
+https://github.com/chongjason914/kaggle-titanic/blob/main/titanic-tutorial.ipynb
+
+https://github.com/amberkakkar01/Titanic-Survival-Prediction/blob/master/train.csv
+
+https://github.com/amberkakkar01/Titanic-Survival-prediction_text
+
